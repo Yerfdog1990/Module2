@@ -12,13 +12,6 @@ public class forEach {
         System.out.println("forEach operation:");
         list.stream().forEach(System.out::println);
 
-        // count operation
-        long count = list.stream().count();
-        System.out.printf("Count of elements: %d%n", count);
-
-        // collect operation
-        List<String> collectedList = list.stream().collect(Collectors.toList());
-        System.out.printf("Collected list: %s%n", collectedList);
 
         // anyMatch operation
         boolean anyMatch = list.stream().anyMatch("a"::equals);
