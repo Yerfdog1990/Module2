@@ -8,7 +8,7 @@ public class forEach {
         List<String> list = List.of("a", "b", "c");
         System.out.printf("Original list: %s%n", list);
 
-        // forEach operation
+        // forEach operation - Executes the given action for each element.
         System.out.println("forEach operation:");
         list.stream().forEach(System.out::println);
 
