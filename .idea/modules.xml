@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Module2.iml" filepath="$PROJECT_DIR$/.idea/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pipeline/Pipeline.iml" filepath="$PROJECT_DIR$/Pipeline/Pipeline.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
     </modules>
   </component>
